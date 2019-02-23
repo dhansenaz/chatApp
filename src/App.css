@@ -1,0 +1,18 @@
+body {
+    margin:0;
+    padding:0;
+}
+
+.wrapper {
+    display:grid;
+    grid-template-columns: 1fr;
+    background-color:rgb(151, 0, 139);
+    border-radius:10px;
+    width:350px;
+    margin:0 auto;
+    margin-top:5%;
+}
+.ui {
+    margin:0 auto;
+    padding:20px;
+}
