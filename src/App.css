@@ -6,8 +6,9 @@ body {
 .wrapper {
     display:grid;
     grid-template-columns: 1fr;
-    background-color:rgb(151, 0, 139);
+    background-color:rgb(255, 255, 255);
     border-radius:10px;
+    box-shadow: 1px 1px 8px 1px #bbbbbb;
     width:350px;
     margin:0 auto;
     margin-top:5%;
